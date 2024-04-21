@@ -6,7 +6,6 @@ Web/Mobile/.NET Developer
 
 Hello, my name is Rafael Procópio, (AKA NABLA) I'm currently learning about web development, mobile development, .NET development (beginner) and, also, studying competitive programming .
 
-* 🌍  I'm based in Brazil
 * 🧠  I'm learning HTML, CSS, Javascript, Tailwind CSS, ReactJS
 * 🤝  I'm open to collaborating on projects that makes me better
 * ⚡  I'm a GYM Rat and beatmaker (beginner). I play piano and keyboard too.
